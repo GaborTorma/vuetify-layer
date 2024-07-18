@@ -1,0 +1,15 @@
+{
+  "git": {
+    "commitMessage": "Release: mwm ${version}",
+    "tagAnnotation": "Release: mwm ${version}",
+    "tagName": "nuxt-layer-starter-v${version}",
+    "requireCommits": true,
+    "requireCommitsFail": false
+  },
+  "github": {
+    "release": true
+  },
+  "npm": {
+    "publish": true
+  }
+}
