@@ -16,4 +16,11 @@ export default defineNuxtConfig({
       standalone: false,
     },
   },
+
+  /* typescript: {
+    includeWorkspace: true,
+    tsConfig: {
+      include: ['../../.release-it.ts'],
+    },
+  }, */
 })
