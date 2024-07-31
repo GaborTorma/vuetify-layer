@@ -1,9 +1,9 @@
-# Nuxt Layer Starter
+# MWM Nuxt Layer template
 
 ## Install
 
 ```bash
-pnpm add -D @gabortorma/mwm-nuxt-layer-template
+pnpm add -D +@gabortorma/mwm-nuxt-layer-template
 ```
 
 ## Usage
