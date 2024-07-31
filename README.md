@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-pnpm add -D @gabortorma/nuxt-layer-starter
+pnpm add -D @gabortorma/mwm-nuxt-layer-template
 ```
 
 ## Usage
@@ -13,7 +13,7 @@ Then add the dependency to their `extends` in `nuxt.config`:
 ```js
 defineNuxtConfig({
   extends: [
-    '@gabortorma/nuxt-layer-starter'
+    '@gabortorma/mwm-nuxt-layer-template'
   ]
 })
 ```
