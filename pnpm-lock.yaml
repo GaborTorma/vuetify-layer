@@ -18,6 +18,9 @@ importers:
       '@gabortorma/antfu-eslint-config':
         specifier: 0.6.6
         version: 0.6.6(@types/eslint@9.6.0)(@vue/compiler-sfc@3.4.38)(magicast@0.3.4)(rollup@4.20.0)(typescript@5.5.4)(vite@5.4.0(@types/node@20.14.15)(terser@5.31.6))
+      '@gabortorma/mwm':
+        specifier: latest
+        version: link:../..
       '@types/node':
         specifier: ^20.14.15
         version: 20.14.15
